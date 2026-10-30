@@ -1,0 +1,22 @@
+# Résultats locaux, APK et images : ne pas publier les données de vos appareils.
+out/
+private/
+backups/
+evidence/
+firmware/
+*.apk
+*.apkm
+*.xapk
+*.so
+*.img
+*.bin
+*.zip
+*.jks
+*.keystore
+*.idsig
+*.log
+*.btsnoop
+bt_config*
+adbkey*
+.env*
+__pycache__/
